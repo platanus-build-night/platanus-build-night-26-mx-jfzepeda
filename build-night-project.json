@@ -1,5 +1,5 @@
 {
-  "project-name": "<FILL THIS>",
-  "project-oneliner": "<FILL THIS>",
-  "project-description": "<FILL THIS>"
+  "project-name": "Study.us",
+  "project-oneliner": "Aprende cualquier tema charlando por voz con un tutor que dibuja el mapa de conocimiento en un canvas interactivo.",
+  "project-description": "Study.us es un tutor visual por voz en español. Mientras conversas con él, va construyendo en tiempo real un mapa de conocimiento (un grafo) sobre un canvas: crea tarjetas, diagramas y aclaraciones ligeras de conceptos a medida que explica. Usa los agentes Realtime de OpenAI para la conversación de voz, ReactFlow para el canvas y diagramas animados, y un modelo BYOK (trae tu propia API key). En vez de leer texto plano, el estudiante ve cómo las ideas se conectan y crecen visualmente conforme pregunta y profundiza."
 }
